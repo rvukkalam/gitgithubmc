@@ -19,4 +19,5 @@ print(x)
 for x in range(10):
     print(x)
 
+print('hi')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
