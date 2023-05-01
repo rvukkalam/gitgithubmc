@@ -8,3 +8,5 @@ print(type(__new_var__))
 
 for x in range(1,2,30):
   print(x)
+  if x > 10:
+    print(x, " is greater than 10")
